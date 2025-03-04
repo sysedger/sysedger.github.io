@@ -22,5 +22,32 @@
   
   
   
+  <entry>
+    <title>Cursor-The AI Code Editor</title>
+    <link href="/2025/03/04/Cursor-The%20AI%20Code%20Editor/"/>
+    <url>/2025/03/04/Cursor-The%20AI%20Code%20Editor/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Cursor-人工智能代码编辑器"><a href="#Cursor-人工智能代码编辑器" class="headerlink" title="Cursor-人工智能代码编辑器"></a>Cursor-人工智能代码编辑器</h1><p><strong>Cursor</strong>是一款fork vscode的代码编辑器,有什么突出的吗?</p><ul><li>内置AI功能,包含各种模型。<strong>包括</strong> <em>Claude 3.5 Sonnet&#x2F;Haiku&#x2F;Opus; <strong>大火的DeepSeek-V3和R1</strong>; Claude 3.7 Sonnet&#x2F;Sonnet Thinking; GPT-4o</em> 等各种模型</li><li>COMPOSER: 直接创建文件,<strong>无需像对话式AI那样复制代码…创建文件…复制粘贴等等等</strong></li></ul><h2 id="1-如何使用"><a href="#1-如何使用" class="headerlink" title="1.如何使用"></a>1.如何使用</h2><h3 id="1-1-下载Cursor"><a href="#1-1-下载Cursor" class="headerlink" title="1-1 下载Cursor"></a>1-1 下载Cursor</h3><p>前往Cursor官网:<a href="https://www.cursor.com/">点击前往</a><br><img src="https://s21.ax1x.com/2025/03/04/pEJnmPH.png" alt="Cursor"><br> <strong>直接下载安装即可</strong><br> <img src="https://s21.ax1x.com/2025/03/04/pEJnNGj.png" alt="软件截图"><br> <img src="https://s21.ax1x.com/2025/03/04/pEJnqWd.png" alt="模型设置"></p><h3 id="1-2-注册登录"><a href="#1-2-注册登录" class="headerlink" title="1-2 注册登录"></a>1-2 注册登录</h3><p>进入官网点击<strong>SIGN UP</strong><br><img src="https://s21.ax1x.com/2025/03/04/pEJuMY4.png" alt="SIGN UP"><br> <em>可用<a href="https://2925.com/">无限邮箱</a>注册</em>;<br> 接着登录到桌面程序即可</p><h2 id="2-解决设备密钥检测"><a href="#2-解决设备密钥检测" class="headerlink" title="2.解决设备密钥检测"></a>2.解决设备密钥检测</h2><p> 为防止使用临时邮箱滥用Cursor服务,Cursor加入了设备指纹检测,一台设备不能登录过多账号。</p><h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p> 使用一键脚本,来自B站<strong>不正经的前端啊</strong>,链接:<a href="https://github.com/isboyjc/cursor-reset">点击前往</a><br> <img src="https://s21.ax1x.com/2025/03/04/pEJK9nx.png" alt="reset"><br> <em><strong>但我认为,每一个深度使用Cursor的用户,都应该为好产品付费</strong></em><br> 再见！</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Cursor</tag>
+      
+      <tag>AI Coding</tag>
+      
+      <tag>AI</tag>
+      
+      <tag>code</tag>
+      
+      <tag>vscode</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
   
 </search>
